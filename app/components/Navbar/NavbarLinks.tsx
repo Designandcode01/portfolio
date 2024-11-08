@@ -17,8 +17,8 @@ export const navbarLinks = [
     },
     {
         id: 2,
-        name: "Contact",
-        href: "/contact"
+        name: "Foundation Module",
+        href: "/foundation"
     },
     {
         id: 3,
